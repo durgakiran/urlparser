@@ -1,0 +1,25 @@
+{
+  "name": "urlparser",
+  "version": "1.0.0",
+  "description": "shortens the url",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "urlparser"
+  },
+  "keywords": [
+    "url",
+    "parser",
+    "url",
+    "shortener"
+  ],
+  "author": "durga kiran",
+  "license": "MIT"
+}
